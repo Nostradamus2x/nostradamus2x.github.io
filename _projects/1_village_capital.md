@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Financial Inclusion Investing — South Asia
+title: Financial Inclusion Investing - South and Southeast Asia
 description: Equity investments and accelerator programs at Village Capital
 img:
 importance: 1
-category: work
+category: finance for development
 ---
 
 At Village Capital I led a $1M equity portfolio across three financial inclusion companies in South Asia, running the full cycle from sourcing through due diligence, investment-thesis development, and presentation to the investment committee.

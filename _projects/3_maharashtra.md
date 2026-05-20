@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Maharashtra State Government
-description: Startup policy and COVID-19 response as a Chief Minister's Fellow
+description: Chief Minister's Fellow
 img:
 importance: 3
-category: work
+category: governance
 ---
 
 As a Chief Minister's Fellow with the Government of Maharashtra, I worked at the intersection of entrepreneurship policy and crisis response.

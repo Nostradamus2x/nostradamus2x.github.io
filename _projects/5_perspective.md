@@ -4,7 +4,7 @@ title: Perspective
 description: A media project for balanced viewpoints
 img:
 importance: 1
-category: personal
+category: dialogue
 ---
 
 Perspective is a side project I started in 2025. The idea is simple: take a contested issue and present the strongest version of viewpoints from across the political spectrum, side by side, so a reader can form their own view rather than be handed one.
