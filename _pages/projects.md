@@ -5,7 +5,7 @@ permalink: /projects/
 description: Selected initiatives across development finance, governance, and the things I build on the side.
 nav: true
 nav_order: 2
-display_categories: [finance for development, governance, media]
+display_categories: [finance for development, governance, dialogue]
 horizontal: false
 ---
 
