@@ -83,8 +83,8 @@ ninja.data = [{
           section: "News",},{id: "news-joined-the-international-finance-corporation-world-bank-group-as-a-research-associate-on-the-east-asia-pacific-team",
           title: 'Joined the International Finance Corporation (World Bank Group) as a Research Associate on...',
           description: "",
-          section: "News",},{id: "projects-financial-inclusion-investing-south-asia",
-          title: 'Financial Inclusion Investing — South Asia',
+          section: "News",},{id: "projects-financial-inclusion-investing-south-and-southeast-asia",
+          title: 'Financial Inclusion Investing - South and Southeast Asia',
           description: "Equity investments and accelerator programs at Village Capital",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_village_capital/";
@@ -95,7 +95,7 @@ ninja.data = [{
               window.location.href = "/projects/2_diaspora/";
             },},{id: "projects-maharashtra-state-government",
           title: 'Maharashtra State Government',
-          description: "Startup policy and COVID-19 response as a Chief Minister&#39;s Fellow",
+          description: "Chief Minister&#39;s Fellow",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_maharashtra/";
             },},{id: "projects-interactive-teaching-tools-mgmt-e-104",
@@ -113,6 +113,16 @@ ninja.data = [{
           description: "Co-chairing one of the largest student-run India conferences",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_india_conference/";
+            },},{id: "projects-blended-finance",
+          title: 'Blended Finance',
+          description: "Exploring the blended finance universe with different stakeholders",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_blended_finance/";
+            },},{id: "projects-silver-economy-in-sea",
+          title: 'Silver Economy in SEA',
+          description: "Market sizing for &#39;silver&#39; financial services in SEA",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_silver_economy/";
             },},{
         id: 'social-email',
         title: 'email',
