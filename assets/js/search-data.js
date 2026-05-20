@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Selected initiatives across investing, policy, and the things I build on the side.",
+          description: "Selected initiatives across development finance, governance, and the things I build on the side.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
