@@ -32,9 +32,7 @@
       "location": "Washington, DC",
       "startDate": "2026-02",
       "summary": "",
-      "highlights": [
-        "Supporting IFC investment-thesis development on the silver economy (aging-population markets) in East Asia Pacific."
-      ]
+      "highlights": ["Supporting IFC investment-thesis development on the silver economy (aging-population markets) in East Asia Pacific."]
     },
     {
       "name": "DIME AI, World Bank Group",
@@ -135,10 +133,7 @@
       "area": "",
       "startDate": "2014-08",
       "endDate": "2018-07",
-      "courses": [
-        "Founded the Debating Society as Literary Secretary",
-        "Co-founded TEDxSomaiyaVidyavihar"
-      ]
+      "courses": ["Founded the Debating Society as Literary Secretary", "Co-founded TEDxSomaiyaVidyavihar"]
     }
   ],
   "awards": [
@@ -153,47 +148,22 @@
     {
       "name": "Data & Analytics",
       "level": "",
-      "keywords": [
-        "Python",
-        "R",
-        "Stata",
-        "Advanced Excel",
-        "Econometrics",
-        "RCTs",
-        "Data visualization"
-      ]
+      "keywords": ["Python", "R", "Stata", "Advanced Excel", "Econometrics", "RCTs", "Data visualization"]
     },
     {
       "name": "Finance & Investment",
       "level": "",
-      "keywords": [
-        "Blended finance",
-        "Impact investing",
-        "Due diligence",
-        "Financial modeling",
-        "Venture capital",
-        "Development finance"
-      ]
+      "keywords": ["Blended finance", "Impact investing", "Due diligence", "Financial modeling", "Venture capital", "Development finance"]
     },
     {
       "name": "Program Management",
       "level": "",
-      "keywords": [
-        "Accelerator design",
-        "Stakeholder engagement",
-        "Partnership development",
-        "Cross-functional leadership"
-      ]
+      "keywords": ["Accelerator design", "Stakeholder engagement", "Partnership development", "Cross-functional leadership"]
     },
     {
       "name": "Policy & Research",
       "level": "",
-      "keywords": [
-        "Policy analysis",
-        "Monitoring & evaluation",
-        "Report writing",
-        "Government relations"
-      ]
+      "keywords": ["Policy analysis", "Monitoring & evaluation", "Report writing", "Government relations"]
     }
   ],
   "languages": [
