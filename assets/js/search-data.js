@@ -98,11 +98,11 @@ ninja.data = [{
           description: "Startup policy and COVID-19 response as a Chief Minister&#39;s Fellow",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_maharashtra/";
-            },},{id: "projects-impactai",
-          title: 'ImpactAI',
-          description: "Launching an AI tool at the World Bank Annual Meetings",
+            },},{id: "projects-interactive-teaching-tools-mgmt-e-104",
+          title: 'Interactive Teaching Tools — MGMT E-104',
+          description: "Six visual explainers and simulators built for a Harvard quantitative methods course",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_impactai/";
+              window.location.href = "/projects/4_mgmt104/";
             },},{id: "projects-perspective",
           title: 'Perspective',
           description: "A media project for balanced viewpoints",
