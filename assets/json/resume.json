@@ -1,221 +1,212 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ayush Shukla",
+    "label": "Development Finance & Impact Investing",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ayushshukla@hks.harvard.edu",
+    "phone": "+1 (617) 251-1805",
+    "url": "https://nostradamus2x.github.io/",
+    "summary": "Development finance professional with 7+ years across impact investing, government, and international development organizations. Currently a Research Associate at the International Finance Corporation (World Bank Group). Harvard MPA/ID graduate working on blended finance, financial inclusion, and data-driven policy, with a focus on South and Southeast Asia.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Washington",
+      "region": "DC",
+      "countryCode": "US"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "shukla-ayush",
+        "url": "https://www.linkedin.com/in/shukla-ayush/"
+      },
+      {
+        "network": "GitHub",
+        "username": "nostradamus2x",
+        "url": "https://github.com/nostradamus2x"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "International Finance Corporation (World Bank Group)",
+      "position": "Research Associate, East Asia Pacific",
+      "location": "Washington, DC",
+      "startDate": "2026-02",
+      "summary": "",
+      "highlights": ["Supporting IFC investment-thesis development on the silver economy (aging-population markets) in East Asia Pacific."]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
+      "name": "DIME AI, World Bank Group",
+      "position": "AI Growth Consultant",
+      "location": "Washington, DC",
+      "startDate": "2025-09",
+      "endDate": "2025-12",
       "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": [
+        "Drafted fundraising proposals and managed AI tool evaluations and external partner relationships.",
+        "Coordinated the ImpactAI launch event at the World Bank Annual Meetings and led the subsequent public release strategy."
+      ]
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
+      "name": "AVPN",
+      "position": "Sustainable Finance Associate",
+      "location": "New York, NY",
+      "startDate": "2024-06",
+      "endDate": "2024-08",
       "summary": "",
+      "highlights": [
+        "Built and executed AVPN's market-entry strategy into blended finance, including internal training materials.",
+        "Liaised with the World Bank, IFC, DFC, MCC, and USAID for an AVPN-managed blended finance fund facility."
+      ]
+    },
+    {
+      "name": "Village Capital",
+      "position": "Senior Programs Associate, South Asia",
+      "location": "Mumbai, India",
+      "startDate": "2023-01",
+      "endDate": "2023-08",
+      "summary": "",
+      "highlights": [
+        "Led $1M in equity investments across three financial inclusion companies; sourced 50+ companies, ran due diligence, and built investment theses.",
+        "Forged partnerships with five organizations for female-led accelerator programs in Afghanistan, Nepal, Bangladesh, and Sri Lanka."
+      ]
+    },
+    {
+      "name": "Village Capital",
+      "position": "Programs Associate, South Asia",
+      "location": "Mumbai, India",
+      "startDate": "2020-11",
+      "endDate": "2022-12",
+      "summary": "",
+      "highlights": [
+        "Managed five accelerator programs for 50+ startups across South and Southeast Asia; sourced 500+ companies and prepared evaluation briefs.",
+        "Built and managed a network of 200+ founders, investors, and sector experts to catalyze venture funding in the region.",
+        "Drafted an Asia-wide migration report and an internal DEI regional action plan."
+      ]
+    },
+    {
+      "name": "Government of Maharashtra",
+      "position": "Chief Minister's Fellow, Innovation & Entrepreneurship",
+      "location": "Mumbai, India",
+      "startDate": "2019-09",
+      "endDate": "2020-08",
+      "summary": "",
+      "highlights": [
+        "Facilitated $4M in donations to government hospitals for COVID-19 relief through national foundations and corporations.",
+        "Drafted the monitoring-and-review section of the Maharashtra State Startup Policy 2020.",
+        "Led a partnership with Udhyam Foundation to embed entrepreneurial thinking in the curriculum for 140,000 students annually.",
+        "Built daily hospital data dashboards and recommendation reports to support the state's pandemic response."
+      ]
+    },
+    {
+      "name": "riidl (Research Innovation Incubation Design Labs)",
+      "position": "Program Manager, Innovation & Startup Studio",
+      "location": "Mumbai, India",
+      "startDate": "2018-09",
+      "endDate": "2019-08",
+      "summary": "",
+      "highlights": [
+        "Designed and launched the Startup School India course and ran design-thinking workshops for aspiring entrepreneurs.",
+        "Planned and led an immersion trek to innovation and incubation centers in China."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Harvard Kennedy School",
+      "location": "Cambridge, MA",
+      "url": "https://www.hks.harvard.edu/",
+      "studyType": "Master in Public Administration in International Development (MPA/ID)",
+      "area": "Concentration: Econometrics and Quantitative Economics",
+      "startDate": "2023-08",
+      "endDate": "2025-05",
+      "courses": [
+        "Co-Chair, India Conference at Harvard 2025 (100+ organizers, 1,000+ attendees, $150K budget)",
+        "Vice President, Impact Investing Club",
+        "Course Assistant: Quantitative Methods, Public-Private Partnerships, Randomized Controlled Trials, and others",
+        "Thesis: Leveraging and Scaling Diaspora Philanthropy for India's Development (Honorable Mention)"
+      ]
+    },
+    {
+      "institution": "University of Mumbai",
+      "location": "Mumbai, India",
+      "studyType": "B.Tech, Electronics Engineering",
+      "area": "",
+      "startDate": "2014-08",
+      "endDate": "2018-07",
+      "courses": ["Founded the Debating Society as Literary Secretary", "Co-founded TEDxSomaiyaVidyavihar"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Thesis Honorable Mention",
+      "date": "2025",
+      "awarder": "Harvard Kennedy School",
+      "summary": "For \"Leveraging and Scaling Diaspora Philanthropy for India's Development.\""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data & Analytics",
+      "level": "",
+      "keywords": ["Python", "R", "Stata", "Advanced Excel", "Econometrics", "RCTs", "Data visualization"]
+    },
+    {
+      "name": "Finance & Investment",
+      "level": "",
+      "keywords": ["Blended finance", "Impact investing", "Due diligence", "Financial modeling", "Venture capital", "Development finance"]
+    },
+    {
+      "name": "Program Management",
+      "level": "",
+      "keywords": ["Accelerator design", "Stakeholder engagement", "Partnership development", "Cross-functional leadership"]
+    },
+    {
+      "name": "Policy & Research",
+      "level": "",
+      "keywords": ["Policy analysis", "Monitoring & evaluation", "Report writing", "Government relations"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Perspective",
+      "summary": "Founder — a media project presenting balanced viewpoints from across the political spectrum.",
+      "startDate": "2025-07",
       "highlights": []
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
+      "name": "GovLab Entrepreneurship Fellowship",
+      "summary": "Fellow, Harvard Institute of Politics — incubation program supporting a cohort of 10 founders.",
+      "startDate": "2025-09",
+      "endDate": "2025-12",
       "highlights": []
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "organization": "Nidhi Prayas (riidl)",
+      "position": "Investment Committee Member",
+      "location": "Mumbai, India",
+      "startDate": "2022-01",
+      "summary": "Seven-member committee deploying seed capital into early-stage companies.",
+      "highlights": []
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    },
-    {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    },
-    {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "organization": "Tinker Qubits (formerly Gyanada Foundation)",
+      "position": "Fellow & Advisor",
+      "location": "India",
+      "startDate": "2018-08",
+      "summary": "Advise on partnerships and fundraising; teach math and visual programming to middle-school students from disadvantaged backgrounds.",
+      "highlights": []
     }
   ]
 }
