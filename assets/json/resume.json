@@ -1,12 +1,11 @@
 {
   "basics": {
     "name": "Ayush Shukla",
-    "label": "Development Finance & Impact Investing",
-    "image": "",
-    "email": "ayushshukla@hks.harvard.edu",
-    "phone": "+1 (617) 251-1805",
+    "email": "ayush.shukla@somaiya.edu",
     "url": "https://nostradamus2x.github.io/",
-    "summary": "Development finance professional with 7+ years across impact investing, government, and international development organizations. Currently a Research Associate at the International Finance Corporation (World Bank Group). Harvard MPA/ID graduate working on blended finance, financial inclusion, and data-driven policy, with a focus on South and Southeast Asia.",
+    "Interests": "Development Finance & Impact Investing",
+    "image": "",
+    "summary": "Development finance professional with 5+ years across impact investing, government, and international development organizations. Currently a Research Associate at the International Finance Corporation (World Bank Group). Harvard MPA/ID graduate working on blended finance, financial inclusion, and data-driven policy, with a focus on South and Southeast Asia.",
     "location": {
       "city": "Washington",
       "region": "DC",
