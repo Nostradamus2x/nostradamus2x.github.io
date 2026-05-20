@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Selected initiatives across investing, policy, and the things I build on the side.
+description: Selected initiatives across development finance, governance, and the things I build on the side.
 nav: true
 nav_order: 2
-display_categories: [work, personal]
+display_categories: [finance for development, governance, media]
 horizontal: false
 ---
 
