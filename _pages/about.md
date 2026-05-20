@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Associate, <a href='https://www.ifc.org/'>International Finance Corporation</a> (World Bank Group). Washington, DC.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  more_info: >
+    <p>Washington, DC</p>
+    <p>ayushshukla@hks.harvard.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +21,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I work in development finance. I'm currently a Research Associate at the International Finance Corporation (World Bank Group), where I support investment-thesis work on aging-population markets across East Asia Pacific.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before this I spent several years across impact investing, government, and the startup ecosystem. At [Village Capital](https://vilcap.com/) I led equity investments in financial inclusion companies and ran accelerator programs in South and Southeast Asia. As a Chief Minister's Fellow in Maharashtra, I worked on the state's 2020 startup policy and on the government's COVID-19 hospital response. I hold an MPA in International Development from the Harvard Kennedy School, where I concentrated in econometrics and quantitative economics and wrote my thesis on scaling diaspora philanthropy for India's development.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+On the side I run Perspective, a project presenting balanced viewpoints across the political spectrum, and I advise a tech-education nonprofit that teaches students from low-income backgrounds. I grew up in Mumbai and now live in Washington, DC. The links below are the best way to find me.

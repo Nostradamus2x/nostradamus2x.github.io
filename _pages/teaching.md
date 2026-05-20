@@ -2,11 +2,23 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I have supported as a teaching or course assistant at the Harvard Kennedy School.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I served as a Teaching or Course Assistant for several courses at the Harvard Kennedy School, mostly in quantitative methods and applied policy. The role involved running review sessions, holding office hours, and helping students work through problem sets and projects.
 
-Organize your courses by years, topics, or universities, however you like!
+**Quantitative and empirical methods**
+
+- Quantitative Methods for Economics and Finance
+- Randomized Controlled Trials
+- Impact of Data and AI on Politics and Policies
+- Math Camp (incoming-student preparation)
+
+**Finance and policy**
+
+- Personal Finance
+- Public-Private Partnerships
+
+Outside of Harvard, I taught math and visual programming to middle-school students from disadvantaged backgrounds through Tinker Qubits (formerly the Gyanada Foundation), where I remain a fellow and advisor.
